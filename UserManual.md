@@ -1,0 +1,1 @@
+[Click here](http://randoop.googlecode.com/hg/doc/index.html) to get to Randoop's user manual.
